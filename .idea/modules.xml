@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-data-book.iml" filepath="$PROJECT_DIR$/spring-data-book.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gemfire/spring-data-book-gemfire.iml" filepath="$PROJECT_DIR$/gemfire/spring-data-book-gemfire.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc/spring-data-book-jdbc.iml" filepath="$PROJECT_DIR$/jdbc/spring-data-book-jdbc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa/spring-data-book-jpa.iml" filepath="$PROJECT_DIR$/jpa/spring-data-book-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mongodb/spring-data-book-mongodb.iml" filepath="$PROJECT_DIR$/mongodb/spring-data-book-mongodb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/neo4j/spring-data-book-neo4j.iml" filepath="$PROJECT_DIR$/neo4j/spring-data-book-neo4j.iml" />
+      <module fileurl="file://$PROJECT_DIR$/querydsl/spring-data-book-querydsl.iml" filepath="$PROJECT_DIR$/querydsl/spring-data-book-querydsl.iml" />
+      <module fileurl="file://$PROJECT_DIR$/redis/spring-data-book-redis.iml" filepath="$PROJECT_DIR$/redis/spring-data-book-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest/spring-data-book-rest.iml" filepath="$PROJECT_DIR$/rest/spring-data-book-rest.iml" />
+    </modules>
+  </component>
+</project>
+

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <option name="DEFAULT_COMPILER" value="Javac" />
+    <resourceExtensions />
+    <wildcardResourcePatterns>
+      <entry name="!?*.java" />
+      <entry name="!?*.form" />
+      <entry name="!?*.class" />
+      <entry name="!?*.groovy" />
+      <entry name="!?*.scala" />
+      <entry name="!?*.flex" />
+      <entry name="!?*.kt" />
+      <entry name="!?*.clj" />
+    </wildcardResourcePatterns>
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="false">
+        <processorPath useClasspath="true" />
+      </profile>
+      <profile default="false" name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="true" />
+        <module name="spring-data-book-gemfire" />
+        <module name="spring-data-book-jdbc" />
+        <module name="spring-data-book-jpa" />
+        <module name="spring-data-book-mongodb" />
+        <module name="spring-data-book-neo4j" />
+        <module name="spring-data-book-querydsl" />
+        <module name="spring-data-book-redis" />
+        <module name="spring-data-book-rest" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="spring-data-book" target="1.6" />
+      <module name="spring-data-book-gemfire" target="1.6" />
+      <module name="spring-data-book-jdbc" target="1.6" />
+      <module name="spring-data-book-jpa" target="1.6" />
+      <module name="spring-data-book-mongodb" target="1.6" />
+      <module name="spring-data-book-neo4j" target="1.6" />
+      <module name="spring-data-book-querydsl" target="1.6" />
+      <module name="spring-data-book-redis" target="1.6" />
+      <module name="spring-data-book-rest" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
+

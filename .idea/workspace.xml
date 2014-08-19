@@ -1,0 +1,1789 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abe8d8b1-725e-44ce-8267-233b18f1fb4a" name="Default" comment="commit test">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/DomainModel.pdf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/banner-graphic.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/create.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/delete.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/en.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/list.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/lib/piggybank-0.9.2.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/input/products.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/input/products.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/test/resources/input/products_corrupted.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/test/resources/input/products_with_errors.zip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/resultset_first.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/resultset_last.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/resultset_next.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/resultset_previous.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/show.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/springsource-logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/images/update.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/hive_uri_hits/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/core/AbstractDocument.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/java/com/oreilly/springdata/jdbc/domain/AbstractEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/AbstractEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/AbstractEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/src/main/java/com/oreilly/springdata/querydsl/core/AbstractEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/core/AbstractEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/item/AbstractHdfsItemWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/hadoop/streaming/AbstractHdfsWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/AbstractHdfsWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/java/com/oreilly/springdata/gemfire/AbstractIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/AbstractIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/AbstractIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/AbstractIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/core/AbstractPersistentEntity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/core/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/java/com/oreilly/springdata/jdbc/domain/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/core/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/src/main/java/com/oreilly/springdata/querydsl/core/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/core/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/Address.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/web/AddressController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/web/AddressController_Roo_Controller.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/repository/AddressRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/repository/AddressRepository_Roo_Jpa_Repository.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/Address_Roo_JavaBean.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/Address_Roo_Jpa_Entity.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/Address_Roo_ToString.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/java/com/oreilly/springdata/hadoop/hive/AnalysisService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/ApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/java/com/oreilly/springdata/jdbc/ApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/ApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/ApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/ApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/main/java/com/oreilly/springdata/redis/ApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/ApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/java/com/oreilly/springdata/gemfire/ApplicationConfigTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/ApplicationConfigTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/ApplicationConfigTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/ApplicationConfigTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/java/com/oreilly/springdata/redis/ApplicationConfigTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/web/ApplicationConversionServiceFactoryBean.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/web/ApplicationConversionServiceFactoryBean_Roo_ConversionService.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/java/com/oreilly/springdata/redis/AtomicCountersTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/config/BatchConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/integration/ip/syslog/ByteArrayLfSerializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/java/com/oreilly/springdata/redis/caching/CacheableTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/java/com/oreilly/springdata/redis/caching/CachingConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/java/com/oreilly/springdata/redis/caching/CachingTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/Category.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/test/java/com/oreilly/springdata/rest/client/ClientConfiguration.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/CollectionPathMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/ControlBusController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/java/com/oreilly/springdata/gemfire/core/CoreMatchers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/core/CoreMatchers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/core/CoreMatchers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/core/CoreMatchers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/Country.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/hadoop/streaming/CustomFileHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/java/com/oreilly/springdata/hadoop/filepolling/CustomFileHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/src/main/java/com/oreilly/springdata/hadoop/ftp/CustomFileHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/CustomFileHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/core/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/java/com/oreilly/springdata/jdbc/domain/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/core/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/src/main/java/com/oreilly/springdata/querydsl/core/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/core/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/Customer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/test/java/com/oreilly/springdata/rest/client/CustomerClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/web/CustomerController.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/web/CustomerController_Roo_Controller.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/core/CustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/java/com/oreilly/springdata/jdbc/repository/CustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/CustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/core/CustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/CustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/core/CustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/repository/CustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/java/com/oreilly/springdata/gemfire/core/CustomerRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/core/CustomerRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/core/CustomerRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/core/CustomerRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/repository/CustomerRepository_Roo_Jpa_Repository.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/Customer_Roo_JavaBean.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/Customer_Roo_Jpa_Entity.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/Customer_Roo_ToString.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/oreilly/springdata/batch/item/DatabaseSkipListener.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/manning/sbia/ch01/batch/DecompressTasklet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/doc/DomainModel.graffle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/core/EmailAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/java/com/oreilly/springdata/jdbc/domain/EmailAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/EmailAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/core/EmailAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/EmailAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/src/main/java/com/oreilly/springdata/querydsl/core/EmailAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/core/EmailAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/EmailAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/EmailAddressConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/EmailAddress_Roo_JavaBean.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/domain/EmailAddress_Roo_ToString.aj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/oreilly/springdata/batch/item/mongodb/FieldSetConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/item/mongodb/FieldSetConverter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/oreilly/springdata/batch/item/database/FieldSetSqlParameterSourceProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/item/database/FieldSetSqlParameterSourceProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/hadoop/streaming/FileExistsMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/java/com/oreilly/springdata/hadoop/filepolling/FileExistsMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/src/main/java/com/oreilly/springdata/hadoop/ftp/FileExistsMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/FileExistsMode.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/java/com/oreilly/springdata/hadoop/filepolling/FilePolling.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/test/java/com/oreilly/springdata/hadoop/filepolling/FsShellTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/java/com/oreilly/springdata/hadoop/filepolling/FsShellWritingMessageHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/src/main/java/com/oreilly/springdata/hadoop/ftp/FsShellWritingMessageHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/test/java/com/oreilly/springdata/hadoop/filepolling/FsShellWritingMessageHandlerTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/src/main/java/com/oreilly/springdata/hadoop/ftp/Ftp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/core/GemfireCustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/resources/com/oreilly/springdata/gemfire/core/GemfireCustomerRepositoryIntegrationTest-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/java/com/oreilly/springdata/gemfire/core/GemfireCustomerRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsTextFileWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsTextFileWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsTextFileWriterFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsTextFileWriterFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/test/java/com/oreilly/springdata/hadoop/streaming/HdfsTextFileWriterIntegrationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/item/HdfsTextItemWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsWriterFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsWriterFactory.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsWritingMessageHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/HdfsWritingMessageHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/java/com/oreilly/springdata/hadoop/hive/HiveApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/java/com/oreilly/springdata/hadoop/hive/HiveAppWithApacheLogs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/java/com/oreilly/springdata/hadoop/hive/HiveClientCallback.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/java/com/oreilly/springdata/hadoop/hive/HivePasswordRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/java/com/oreilly/springdata/hadoop/hive/HiveTemplatePasswordRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/InfrastructureConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/config/ItemReaderBuilder.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/java/com/oreilly/springdata/hadoop/hive/JdbcPasswordRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/JpaCustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/core/JpaCustomerRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/java/com/oreilly/springdata/redis/KeyValueSerializersTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/manning/sbia/ch01/launch/LaunchDatabaseAndConsole.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/launch/LaunchDatabaseAndConsole.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/manning/sbia/ch01/launch/LaunchExportProductsJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/launch/LaunchImportProductsJob.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/manning/sbia/ch01/launch/LaunchSpringBatchAdmin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/launch/LaunchSpringBatchAdmin.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/order/LineItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/order/LineItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/order/LineItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/order/LineItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/src/main/java/com/oreilly/springdata/querydsl/order/LineItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/order/LineItem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/LineItemMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__asm_asm_3_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cglib_cglib_nodep_2_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_0_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_gemstone_gemfire_gemfire_7_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_1_3_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_11_0_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_13_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_concurrentlinkedhashmap_concurrentlinkedhashmap_lru_1_3_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_codegen_codegen_0_5_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_commons_mysema_commons_lang_0_2_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_querydsl_querydsl_apt_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_querydsl_querydsl_codegen_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_querydsl_querydsl_collections_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_querydsl_querydsl_core_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_querydsl_querydsl_jpa_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_querydsl_querydsl_lucene_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_querydsl_querydsl_mongodb_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_mysema_querydsl_querydsl_sql_2_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_2_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_digester_commons_digester_1_4_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_api_1_0_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_modeler_commons_modeler_2_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_pool_commons_pool_1_5_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_regexp_jakarta_regexp_1_4.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_inject_javax_inject_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_0_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_0_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_1_6.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_dep_4_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_core_3_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_lucene_lucene_queries_3_5_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_eclipse_jdt_core_compiler_ecj_3_7_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_4_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_1_6_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_4_1_9_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_1_6_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_entitymanager_4_1_9_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_0_api_1_0_1_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_2_2_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hsqldb_hsqldb_2_2_9.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_17_1_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_1_0_GA.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_spec_javax_transaction_jboss_transaction_api_1_1_spec_1_0_0_Final.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_9_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mongodb_mongo_java_driver_2_10_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_cypher_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_cypher_dsl_1_8.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_graph_algo_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_graph_matching_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_jmx_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_kernel_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_lucene_index_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_neo4j_neo4j_udc_1_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_scala_lang_scala_library_2_9_1_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_1_5_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_gemfire_1_3_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jdbc_core_1_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_1_3_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_1_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_neo4j_2_2_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_1_0_3_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_core_1_1_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_repository_1_1_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_rest_webmvc_1_1_0_M1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_hateoas_spring_hateoas_0_4_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_0_8_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_retry_spring_retry_1_0_0_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_1_4_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_3_2_1_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_1_0.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/core/MongoDbCustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/core/MongoDbCustomerRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/oreilly/springdata/batch/item/mongodb/MongoItemWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/item/mongodb/MongoItemWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/item/MultiHdfsTextItemWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/order/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/order/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/order/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/order/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/src/main/java/com/oreilly/springdata/querydsl/order/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/order/Order.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/test/java/com/oreilly/springdata/rest/client/OrderClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/java/com/oreilly/springdata/gemfire/order/OrderMatchers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/order/OrderMatchers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/order/OrderMatchers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/order/OrderMatchers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/order/OrderRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/order/OrderRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/order/OrderRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/order/OrderRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/order/OrderRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/java/com/oreilly/springdata/gemfire/order/OrderRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/order/OrderRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/order/OrderRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/order/OrderRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/java/com/oreilly/springdata/hadoop/hive/PasswordRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/java/com/oreilly/springdata/hadoop/pig/PasswordRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/java/com/oreilly/springdata/hadoop/pig/PasswordService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/java/com/oreilly/springdata/hadoop/pig/PigApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/java/com/oreilly/springdata/hadoop/pig/PigAppWithApacheLogs.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/java/com/oreilly/springdata/hadoop/pig/PigAppWithRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/java/com/oreilly/springdata/hadoop/pig/PigPasswordRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/PlainJpaConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/core/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/oreilly/springdata/batch/domain/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/domain/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/core/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/src/main/java/com/oreilly/springdata/querydsl/core/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/core/Product.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/manning/sbia/ch01/batch/ProductFieldSetMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/oreilly/springdata/batch/item/file/ProductFieldSetMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/ProductFieldSetMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/manning/sbia/ch01/batch/ProductJdbcItemWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/java/com/oreilly/springdata/batch/item/ProductProcessor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/java/com/oreilly/springdata/gemfire/core/ProductRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/ProductRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/core/ProductRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/ProductRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/core/ProductRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/java/com/oreilly/springdata/gemfire/core/ProductRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/core/ProductRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/core/ProductRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/core/ProductRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/domain/ProductRowMapper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/src/test/java/com/oreilly/springdata/querydsl/core/ProductUnitTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/test/java/com/oreilly/springdata/rest/client/ProductsClient.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/PropertyPathValueMatcher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/java/com/oreilly/springdata/redis/PubSubConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/java/com/oreilly/springdata/redis/PubSubTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/generated/java/com/oreilly/springdata/jdbc/domain/QAddress.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/generated/java/com/oreilly/springdata/jdbc/domain/QCustomer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/java/com/oreilly/springdata/jdbc/repository/QueryDslCustomerRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/test/java/com/oreilly/springdata/jdbc/repository/QueryDslCustomerRepositoryTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/core/QuerydslProductRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/core/QuerydslProductRepositoryIntegrationTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling-quartz/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-hdfs-copy/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-basic/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-intermediate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/Rating.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/RestWebApplicationInitializer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/util/SampleDataProvider.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/item/SimpleAbstractHdfsItemWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/item/SimpleHdfsTextItemWriter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/hadoop/streaming/Streaming.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/test/java/com/oreilly/springdata/hadoop/streaming/SyslogToHdfsIntegrationTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/java/com/oreilly/springdata/integration/ip/syslog/SyslogTransformer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/core/Tag.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/java/com/oreilly/springdata/neo4j/TestApplicationConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/test/java/com/oreilly/springdata/jdbc/TestConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/src/main/java/com/oreilly/springdata/hadoop/hbase/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/src/main/java/com/oreilly/springdata/hadoop/hbase/UserApp.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/src/main/java/com/oreilly/springdata/hadoop/hbase/UserRepository.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/src/main/java/com/oreilly/springdata/hadoop/hbase/UserUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/java/com/oreilly/springdata/hadoop/wordcount/WordCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount/src/main/java/com/oreilly/springdata/hadoop/wordcount/WordCount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/test/java/org/springframework/data/hadoop/samples/WordCountWorkflowTests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling-quartz/src/main/java/com/oreilly/springdata/hadoop/wordcount/Wordcount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling/src/main/java/com/oreilly/springdata/hadoop/wordcount/Wordcount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-hdfs-copy/src/main/java/com/oreilly/springdata/hadoop/wordcount/Wordcount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-basic/src/main/java/com/oreilly/springdata/hadoop/wordcount/Wordcount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-intermediate/src/main/java/com/oreilly/springdata/hadoop/wordcount/Wordcount.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/styles/alt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/classes/alt.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/apache-log-simple.hql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/apache-log-simple.pig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/apache-log.hql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/apache-log.pig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/data/apache.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/data/apache.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/resources/META-INF/spring/application-context-querydsl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling-quartz/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-hdfs-copy/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-basic/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-intermediate/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/resources/META-INF/spring/application-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/i18n/application.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/resources/META-INF/spring/applicationContext-jpa.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/resources/META-INF/spring/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/META-INF/spring/batch-common-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/batch-default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/batch-default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/batch-h2.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/batch-h2.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/META-INF/spring/batch-infrastructure-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/META-INF/spring/batch-infrastructure-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/batch.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/batch.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/batch.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/main/resources/META-INF/spring/cache-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/menu/category.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/checkbox.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/column.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/resources/META-INF/spring/controlbus-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling-quartz/src/main/resources/copy-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling/src/main/resources/copy-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/copy-files.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/copy-files.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/copy-files.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-hdfs-copy/src/main/resources/copy-files.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/core-site.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/cp-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/cp-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/cp-data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/create-and-populate-product-table.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/create-skip-log-table.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/create-tables.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/addresses/create.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/customers/create.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/create.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/resources/data.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/resources/data.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/resources/data.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/dataAccessFailure.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/resources/META-INF/spring/database.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/datetime.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/layouts/default.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/dependency.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/display.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/editor.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/META-INF/spring/export-from-hdfs-job-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/find.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/footer.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/formatting.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/src/main/resources/ftp.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/META-INF/spring/hadoop-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/META-INF/spring/hadoop-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/META-INF/spring/hadoop-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/resources/META-INF/spring/hadoop-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/resources/META-INF/spring/hadoop-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-intermediate/src/main/resources/hadoop-default.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-intermediate/src/main/resources/hadoop-qa.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling-quartz/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-hdfs-copy/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-basic/src/main/resources/hadoop.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/src/main/resources/hbase.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/header.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/META-INF/spring/hive-apache-log-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/META-INF/spring/hive-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/hive-server.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/hive.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/META-INF/spring/import-to-hdfs-job-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/index-template.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/index.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/resources/META-INF/spring/infrastructure.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/db/init.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/db/init.script" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/META-INF/spring/initialize/initialize-database-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/META-INF/spring/initialize/initialize-database-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/input.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/insert-data.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/insert-data.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/menu/item.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/META-INF/spring/jdbc-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/test/resources/jdbc.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/test/resources/job-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/util/language.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/launch-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/layouts/layouts.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/addresses/list.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/customers/list.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/list.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/util/load-scripts.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/log.roo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/test/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/resources/log4j.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/test/resources/logback-test.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/src/test/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling-quartz/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-hdfs-copy/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-basic/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-intermediate/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/test/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/src/test/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/src/test/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/test/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/src/test/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/src/main/resources/logback.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/menu.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/menu/menu.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/i18n/messages.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/data/nietzsche-chapter-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling-quartz/src/main/resources/data/nietzsche-chapter-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling/src/main/resources/data/nietzsche-chapter-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-hdfs-copy/src/main/resources/data/nietzsche-chapter-1.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/util/pagination.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/util/panel.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/data/part-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/data/part-00000" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/data/part-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/data/part-00001" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/password-analysis.hql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/password-analysis.pig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/resources/META-INF/persistence.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/pig-analysis.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/META-INF/spring/pig-context-apache-logs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/META-INF/spring/pig-context-password-repository.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/META-INF/spring/pig-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/src/main/resources/pig-server.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/util/placeholder.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/src/main/resources/polling.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/file-polling/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/ftp/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hbase/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/pig/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/scheduling-quartz/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-hdfs-copy/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-basic/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/wordcount-spring-intermediate/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/resources/input/products.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/resources/input/products.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/test/resources/input/products_with_errors.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/reference.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/resourceNotFound.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/main/resources/sql/schema.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/select.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/hive/src/main/resources/set-hive-permissions.groovy" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/addresses/show.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/customers/show.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/show.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/simple.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/spring-data-book-gemfire.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/spring-data-book-jdbc.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jpa/spring-data-book-jpa.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mongodb/spring-data-book-mongodb.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/spring-data-book-neo4j.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/querydsl/spring-data-book-querydsl.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redis/spring-data-book-redis.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/rest/spring-data-book-rest.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-data-book.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/neo4j/src/main/resources/META-INF/spring/spring-data-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_data_book_rest_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/spring_data_book_rest_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/styles/standard.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/classes/standard.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/streaming/src/main/resources/syslog.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/table.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/test/resources/test-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jdbc/src/test/resources/sql/test-data.sql" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/fields/textarea.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/util/theme.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/uncaughtException.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/addresses/update.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/customers/update.jspx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/tags/form/update.tagx" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/vf.gf.dmn-events.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gemfire/vf.gf.dmn-license.cfg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/addresses/views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/views/customers/views.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-extract/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-import/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/webapp/WEB-INF/spring/webmvc-config.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/wordcount-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hadoop/batch-wordcount/src/main/resources/META-INF/spring/wordcount-context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <ignored path="spring-data-book.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="spring-data-book" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="ApplicationConfigTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/ApplicationConfigTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="765" max-vertical-offset="901">
+              <caret line="45" column="5" selection-start-line="41" selection-start-column="38" selection-end-line="45" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomerRepositoryIntegrationTest.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/core/CustomerRepositoryIntegrationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.4456522" vertical-offset="261" max-vertical-offset="986">
+              <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationConfig.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/ApplicationConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="1071" max-vertical-offset="1428">
+              <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractIntegrationTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/AbstractIntegrationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1802">
+              <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/querydsl/src/test/java/com/oreilly/springdata/querydsl/core/ProductUnitTest.java" />
+        <option value="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/Customer.java" />
+        <option value="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/JpaCustomerRepository.java" />
+        <option value="$PROJECT_DIR$/rest/src/test/java/com/oreilly/springdata/rest/client/ProductsClient.java" />
+        <option value="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/EmailAddress.java" />
+        <option value="$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/InfrastructureConfig.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/mongodb/src/main/resources/META-INF/spring/application-context.xml" />
+        <option value="$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/ApplicationConfig.java" />
+        <option value="$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/AbstractIntegrationTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+      </PATH>
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <OptionsSetting value="true" id="Undo Check Out" />
+    <OptionsSetting value="true" id="Get Latest Version" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-data-book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-data-book" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="spring-data-book" />
+              <option name="myItemType" value="com.android.tools.idea.gradle.projectView.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.49478564" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationConfigTest.bootstrapAppFromJavaConfig (1)">
+    <configuration default="false" name="ApplicationConfigTest.bootstrapAppFromJavaConfig" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.oreilly.springdata.jpa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="spring-data-book-jpa" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.oreilly.springdata.jpa" />
+      <option name="MAIN_CLASS_NAME" value="com.oreilly.springdata.jpa.ApplicationConfigTest" />
+      <option name="METHOD_NAME" value="bootstrapAppFromJavaConfig" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ApplicationConfigTest.bootstrapAppFromJavaConfig (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="com.oreilly.springdata.mongodb.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="spring-data-book-mongodb" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.oreilly.springdata.mongodb" />
+      <option name="MAIN_CLASS_NAME" value="com.oreilly.springdata.mongodb.ApplicationConfigTest" />
+      <option name="METHOD_NAME" value="bootstrapAppFromJavaConfig" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <module name="" />
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="depsClasspath" value="false" />
+      <setting name="passParentEnv" value="true" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <setting name="launchBrowser" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list />
+            </option>
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="Specs2RunConfiguration" factoryName="Specs2">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="USE_COMMAND_LINE" value="true" />
+      <option name="COMMAND_LINE" value="" />
+      <option name="WIPE_USER_DATA" value="false" />
+      <option name="DISABLE_BOOT_ANIMATION" value="false" />
+      <option name="NETWORK_SPEED" value="full" />
+      <option name="NETWORK_LATENCY" value="none" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="ScalaTestRunConfiguration" factoryName="ScalaTest">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <extension name="scalaCoverage" />
+      <module name="" />
+      <setting name="path" value="" />
+      <setting name="package" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workingDirectory" value="$PROJECT_DIR$" />
+      <setting name="searchForTest" value="Across module dependencies" />
+      <setting name="testName" value="" />
+      <setting name="testKind" value="Class" />
+      <setting name="showProgressMessages" value="true" />
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ApplicationConfigTest.bootstrapAppFromJavaConfig" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ApplicationConfigTest.bootstrapAppFromJavaConfig (1)" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.ApplicationConfigTest.bootstrapAppFromJavaConfig (1)" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.ApplicationConfigTest.bootstrapAppFromJavaConfig" />
+      </list>
+    </recent_temporary>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\abdellah\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abe8d8b1-725e-44ce-8267-233b18f1fb4a" name="Default" comment="" />
+      <created>1407097857200</created>
+      <updated>1407097857200</updated>
+      <workItem from="1407097861811" duration="8607000" />
+      <workItem from="1407273766409" duration="1175000" />
+      <workItem from="1407446801876" duration="2384000" />
+      <workItem from="1407683164705" duration="2941000" />
+      <workItem from="1407969107230" duration="956000" />
+      <workItem from="1408102644375" duration="1369000" />
+      <workItem from="1408112244708" duration="8813000" />
+      <workItem from="1408176909765" duration="2817000" />
+      <workItem from="1408317244805" duration="3111000" />
+      <workItem from="1408395097375" duration="7292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="39465000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Persistence" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" x="15" y="222" width="1324" height="193" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32998326" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39863715" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32930514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34743202" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3270869" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.Settings">
+    <option name="SHOW_BRANCHES_PANEL" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+    <MESSAGE value="commit test" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit test" />
+  </component>
+  <component name="VssConfiguration">
+    <option name="CLIENT_PATH" value="" />
+    <option name="SRCSAFEINI_PATH" value="" />
+    <option name="USER_NAME" value="" />
+    <option name="PWD" value="" />
+    <CheckoutOptions>
+      <option name="COMMENT" value="" />
+      <option name="DO_NOT_GET_LATEST_VERSION" value="false" />
+      <option name="REPLACE_WRITABLE" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckoutOptions>
+    <CheckinOptions>
+      <option name="COMMENT" value="" />
+      <option name="KEEP_CHECKED_OUT" value="false" />
+      <option name="RECURSIVE" value="false" />
+    </CheckinOptions>
+    <AddOptions>
+      <option name="STORE_ONLY_LATEST_VERSION" value="false" />
+      <option name="CHECK_OUT_IMMEDIATELY" value="false" />
+    </AddOptions>
+    <UndocheckoutOptions>
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="REPLACE_LOCAL_COPY" value="2" />
+      <option name="RECURSIVE" value="false" />
+    </UndocheckoutOptions>
+    <GetOptions>
+      <option name="REPLACE_WRITABLE" value="0" />
+      <option name="MAKE_WRITABLE" value="false" />
+      <option name="ANSWER_NEGATIVELY" value="false" />
+      <option name="ANSWER_POSITIVELY" value="false" />
+      <option name="RECURSIVE" value="false" />
+      <option name="VERSION" />
+    </GetOptions>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/ApplicationConfig.java</url>
+          <line>63</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/ApplicationConfig.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rest/src/main/java/com/oreilly/springdata/rest/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="775" max-vertical-offset="1122">
+          <caret line="66" column="70" selection-start-line="66" selection-start-column="50" selection-end-line="66" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/src/test/java/com/oreilly/springdata/rest/client/OrderClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="310" max-vertical-offset="1020">
+          <caret line="36" column="42" selection-start-line="36" selection-start-column="42" selection-end-line="36" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/src/test/java/com/oreilly/springdata/rest/client/ClientConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="174" max-vertical-offset="918">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/3.2.1.RELEASE/spring-web-3.2.1.RELEASE.jar!/org/springframework/web/client/RestOperations.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3090909" vertical-offset="0" max-vertical-offset="1411">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/neo4j/neo4j-kernel/1.8.1/neo4j-kernel-1.8.1.jar!/org/neo4j/kernel/EmbeddedGraphDatabase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.15454546" vertical-offset="0" max-vertical-offset="330">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/neo4j/src/main/java/com/oreilly/springdata/neo4j/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6005435" vertical-offset="0" max-vertical-offset="391">
+          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/launch/LaunchImportProductsJob.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2771739" vertical-offset="0" max-vertical-offset="629">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hadoop/batch-import/src/main/java/com/oreilly/springdata/batch/launch/LaunchDatabaseAndConsole.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5842391" vertical-offset="159" max-vertical-offset="527">
+          <caret line="23" column="5" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rest/src/test/java/com/oreilly/springdata/rest/client/ProductsClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.4157609" vertical-offset="176" max-vertical-offset="884">
+          <caret line="61" column="41" selection-start-line="61" selection-start-column="41" selection-end-line="61" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/PlainJpaConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4918478" vertical-offset="40" max-vertical-offset="408">
+          <caret line="31" column="33" selection-start-line="31" selection-start-column="15" selection-end-line="31" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/AbstractEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.46195653" vertical-offset="0" max-vertical-offset="969">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/Customer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="1853">
+          <caret line="39" column="56" selection-start-line="39" selection-start-column="49" selection-end-line="39" selection-end-column="56" />
+          <folding>
+            <element signature="e#2566#2567#0" expanded="false" />
+            <element signature="e#2605#2606#0" expanded="false" />
+            <element signature="e#2716#2717#0" expanded="false" />
+            <element signature="e#2768#2769#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/Address.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="1.6929348" vertical-offset="176" max-vertical-offset="1207">
+          <caret line="65" column="14" selection-start-line="65" selection-start-column="14" selection-end-line="65" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/EmailAddress.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9521127" vertical-offset="104" max-vertical-offset="969">
+          <caret line="44" column="34" selection-start-line="44" selection-start-column="34" selection-end-line="44" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/CustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.6005435" vertical-offset="0" max-vertical-offset="714">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/core/JpaCustomerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3423913" vertical-offset="299" max-vertical-offset="952">
+          <caret line="45" column="29" selection-start-line="45" selection-start-column="29" selection-end-line="45" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/AbstractIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4610951" vertical-offset="129" max-vertical-offset="782">
+          <caret line="43" column="7" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/resources/META-INF/spring/application-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5652174" vertical-offset="107" max-vertical-offset="629">
+          <caret line="17" column="109" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/test/java/com/oreilly/springdata/jpa/ApplicationConfigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20380434" vertical-offset="316" max-vertical-offset="714">
+          <caret line="37" column="83" selection-start-line="37" selection-start-column="76" selection-end-line="37" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="44" max-vertical-offset="391">
+          <caret line="30" column="30" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/src/main/java/com/oreilly/springdata/jpa/InfrastructureConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.08" vertical-offset="0" max-vertical-offset="1139">
+          <caret line="32" column="74" selection-start-line="32" selection-start-column="74" selection-end-line="32" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jpa/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1364" max-vertical-offset="1904">
+          <caret line="106" column="10" selection-start-line="106" selection-start-column="10" selection-end-line="106" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/spring-data-book-mongodb.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="935">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5100865" vertical-offset="316" max-vertical-offset="2448">
+          <caret line="29" column="14" selection-start-line="29" selection-start-column="14" selection-end-line="29" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.1.RELEASE/spring-core-3.2.1.RELEASE.jar!/org/springframework/core/convert/converter/Converter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26397514" vertical-offset="0" max-vertical-offset="322">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.2.0.RELEASE/spring-data-mongodb-1.2.0.RELEASE-sources.jar!/org/springframework/data/mongodb/core/MongoTemplate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.334294" vertical-offset="803" max-vertical-offset="30107">
+          <caret line="120" column="61" selection-start-line="120" selection-start-column="61" selection-end-line="120" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/mongodb/mongo-java-driver/2.10.1/mongo-java-driver-2.10.1.jar!/com/mongodb/Mongo.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25757575" vertical-offset="0" max-vertical-offset="2652">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1275">
+          <caret line="58" column="32" selection-start-line="58" selection-start-column="32" selection-end-line="58" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.1.RELEASE/spring-context-3.2.1.RELEASE.jar!/org/springframework/context/annotation/ConfigurationClassEnhancer.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.28" vertical-offset="377" max-vertical-offset="1003">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.2.0.RELEASE/spring-data-mongodb-1.2.0.RELEASE-sources.jar!/org/springframework/data/mongodb/config/AbstractMongoConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="556" max-vertical-offset="2890">
+          <caret line="77" column="5" selection-start-line="77" selection-start-column="5" selection-end-line="77" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-core/3.2.1.RELEASE/spring-core-3.2.1.RELEASE.jar!/org/springframework/cglib/proxy/MethodProxy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.28" vertical-offset="496" max-vertical-offset="1020">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.1.RELEASE/spring-beans-3.2.1.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.12" vertical-offset="212" max-vertical-offset="459">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.1.RELEASE/spring-beans-3.2.1.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.28" vertical-offset="190" max-vertical-offset="986">
+          <caret line="17" column="49" selection-start-line="17" selection-start-column="49" selection-end-line="17" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.1.RELEASE/spring-beans-3.2.1.RELEASE.jar!/org/springframework/beans/factory/support/BeanDefinitionValueResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.31141868" vertical-offset="335" max-vertical-offset="833">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.1.RELEASE/spring-beans-3.2.1.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.28" vertical-offset="955" max-vertical-offset="2278">
+          <caret line="62" column="31" selection-start-line="62" selection-start-column="31" selection-end-line="62" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.1.RELEASE/spring-beans-3.2.1.RELEASE.jar!/org/springframework/beans/factory/support/AbstractBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="3264">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/3.2.1.RELEASE/spring-beans-3.2.1.RELEASE.jar!/org/springframework/beans/factory/support/DefaultSingletonBeanRegistry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.28" vertical-offset="479" max-vertical-offset="1394">
+          <caret line="34" column="28" selection-start-line="34" selection-start-column="28" selection-end-line="34" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-context/3.2.1.RELEASE/spring-context-3.2.1.RELEASE.jar!/org/springframework/context/support/AbstractApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6" vertical-offset="3157" max-vertical-offset="3825">
+          <caret line="192" column="28" selection-start-line="192" selection-start-column="28" selection-end-line="192" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.10/junit-dep-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.64" vertical-offset="4" max-vertical-offset="289">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.10/junit-dep-4.10.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1649">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.10/junit-dep-4.10.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.28" vertical-offset="751" max-vertical-offset="1224">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit-dep/4.10/junit-dep-4.10.jar!/org/junit/runner/JUnitCore.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.48788926" vertical-offset="420" max-vertical-offset="731">
+          <caret line="34" column="0" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/java/com/oreilly/springdata/mongodb/ApplicationConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="608" max-vertical-offset="1122">
+          <caret line="63" column="42" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/ApplicationConfigTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="206" max-vertical-offset="561">
+          <caret line="45" column="5" selection-start-line="41" selection-start-column="38" selection-end-line="45" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roo/roo-spring-data-jpa/src/main/java/com/oreilly/springdata/roo/web/AddressController_Roo_Controller.aj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.45808384" vertical-offset="0" max-vertical-offset="1751">
+          <caret line="24" column="14" selection-start-line="24" selection-start-column="14" selection-end-line="24" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#5447#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spring-data-book.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.22155689" vertical-offset="227" max-vertical-offset="561">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/AbstractIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1802">
+          <caret line="61" column="0" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/main/resources/META-INF/spring/application-context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="119" max-vertical-offset="476">
+          <caret line="7" column="74" selection-start-line="7" selection-start-column="74" selection-end-line="7" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mongodb/src/test/java/com/oreilly/springdata/mongodb/core/CustomerRepositoryIntegrationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4456522" vertical-offset="261" max-vertical-offset="986">
+          <caret line="46" column="9" selection-start-line="46" selection-start-column="9" selection-end-line="46" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>spring-data-book-rest:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49478564" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>JPA</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49478564" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>grails-2.0.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49478564" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|spring-data-book-rest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49478564" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.0.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.49478564" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
+
