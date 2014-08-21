@@ -62,6 +62,11 @@ public abstract class AbstractIntegrationTest {
         address.put("street", "Broadway");
         address.put("country", "France");
 
+        BasicDBObject address3 = new BasicDBObject();
+        address.put("city", "Berlin");
+        address.put("street", "Broadway");
+        address.put("country", "Germany");
+
 		BasicDBList addresses = new BasicDBList();
 		addresses.add(address);
         addresses.add(address2);
